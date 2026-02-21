@@ -18,9 +18,11 @@ NFT Mining allows users to stake their NFTs and earn rewards based on rarity, du
 
 ---
 
-## Live Application
+## Live Applications
 
-**App:** https://pentagon.games/mine
+**Mining App:** https://pentagon.games/mine
+
+**Related:** https://getpc.pentagon.games
 
 ---
 
