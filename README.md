@@ -16,13 +16,29 @@ Official smart contracts deployed on Pentagon Chain.
 
 ---
 
+## ERC Proposals
+
+### ERC-7857A: AI-Native NFT Standard
+
+Pentagon Chain's proposal for autonomous agent identity. Enables AI agents to self-custody wallets and NFTs.
+
+**Read the full proposal:** [EIPs/ERC-7857A-AINFT.md](./EIPs/ERC-7857A-AINFT.md)
+
+**Key Features:**
+- Deterministic wallet derivation from agent identity
+- Agent self-custody via TEE/MPC
+- Human control NFT for safety override
+- Progressive certification tiers (L1-L4)
+
+---
+
 ## Deployed Contracts
 
 ### Core
 
 | Contract | Address | Description |
 |----------|---------|-------------|
-| *Coming soon* | | |
+| PentagonAINFT | *Testnet* | ERC-7857A implementation |
 
 ### DeFi (Pentaswap)
 
