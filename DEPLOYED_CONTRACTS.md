@@ -5,6 +5,29 @@
 
 ---
 
+## PentaSwap DEX Contracts (Verified)
+
+| Contract | Address | Description |
+|----------|---------|-------------|
+| PentaswapV2Factory | `0xC75C7E9352bC1475d7c308E65C0a21969DcEdEe7` | Factory for creating pairs |
+| PentaswapV2Router | `0x60b70E46178CEf34E71B61BDE2E79bbB7bA41706` | Router for swaps |
+| WPC (Wrapped PC) | `0xAA3d9411DD08FDA149d4545089e241E62EE87860` | Wrapped native token |
+
+### Trading Pairs
+- BANANA/WPC
+- ZOR/WPC
+- ZOR/BANANA
+- WPC/MN
+- PROF/WPC
+
+**Related Repos:**
+- Frontend: [swapfive_web](https://github.com/blockchainsuperheroes/swapfive_web)
+- SDK: [pentaswap-sdk](https://github.com/blockchainsuperheroes/pentaswap-sdk)
+- V2 Frontend: [pentaswap-v2](https://github.com/blockchainsuperheroes/pentaswap-v2)
+- Backend API: [pen-wallet-backend](https://github.com/blockchainsuperheroes/pen-wallet-backend)
+
+---
+
 ## Verified Contracts
 
 | Contract | Address | Description |
