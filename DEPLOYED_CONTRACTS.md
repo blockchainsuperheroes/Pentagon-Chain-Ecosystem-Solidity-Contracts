@@ -97,3 +97,9 @@
 ---
 
 *Last updated: 2026-02-21*
+
+---
+
+## Security
+
+**CertiK Audit:** https://skynet.certik.com/projects/pentagon-games
